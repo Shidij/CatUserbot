@@ -179,7 +179,7 @@ async def _(event):
         "🤯",
         "💔",
         "❤",
-        "i Love You❤",
+        "i Love You❤BABE",
     ]
     for i in animation_ttl:
         await asyncio.sleep(animation_interval)
@@ -204,6 +204,7 @@ async def _(event):
     await event.edit("-----------✈--")
     await event.edit("------------✈-")
     await event.edit("-------------✈")
+    await event.edit("------------💥")
     await asyncio.sleep(3)
 
 
