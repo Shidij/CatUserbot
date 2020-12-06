@@ -2,7 +2,7 @@ version = 2.1
 
 [[analyzers]]
 name = "python3"
-enabled = TRUE 
+enabled = True
 
   [analyzers.meta]
   runtime_version = "3.x.x"
