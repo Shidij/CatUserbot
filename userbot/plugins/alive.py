@@ -29,7 +29,7 @@ async def amireallyalive(alive):
     if alive.reply_to_msg_id:
         reply_to_id = await alive.get_reply_message()
     if CAT_IMG:
-        cat_caption = f"**{SURCAT}**\n\n"
+        cat_caption = f"**{RAMCAT}**\n\n"
         cat_caption += f"**{EMOJI} My Master:** ✨[{DEFAULTUSER}](tg://user?id={hmm})✨\n"
         cat_caption += f"**{EMOJI} Uptime :** `{uptime}\n`"
         cat_caption += f"**{EMOJI} Python Version :** `{python_version()}\n`"
@@ -47,7 +47,7 @@ async def amireallyalive(alive):
     else:
         await edit_or_reply(
             alive,
-            f"**{SURCAT}**\n\n"
+            f"**{RAMCAT}**\n\n"
             f"**{EMOJI} My Master:** [{DEFAULTUSER}](tg://user?id={hmm})\n"
             f"**{EMOJI} Uptime :** `{uptime}\n`"
             f"**{EMOJI} Python Version :** `{python_version()}\n`"
