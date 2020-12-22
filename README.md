@@ -6,9 +6,17 @@ Get APP ID and API HASH from [HERE](https://my.telegram.org) and BOT TOKEN from 
 
 [![Get string session](https://generatestringsession.sarathsurvivor.repl.run/)
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)https://github.com/Sur-vivor/CatUserbot)
 <p align="center">
-<
+  <a href="https://github.com/Sur-vivor/CatUserbot/fork">
+    <img src="https://img.shields.io/github/forks/Sur-vivor/CatUserbot?label=Fork&style=social">
+    
+  </a>
+  <a href="https://github.com/Sur-vivor/CatUserbot">
+    <img src="https://img.shields.io/github/stars/Sur-vivor/CatUserbot?style=social">
+  </a>
+</p>
+
 
 [![catuserbot logo](https://telegra.ph/file/7e1e89621fabbf02596f8.jpg)]
 
