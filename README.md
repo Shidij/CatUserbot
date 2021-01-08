@@ -4,21 +4,21 @@
 ### The Easy Way to deploy the bot
 Get APP ID and API HASH from [HERE](https://my.telegram.org) and BOT TOKEN from [Bot Father](https://t.me/botfather) and then Generate stringsession by clicking on run.on.repl.it button below and then click on deploy to heroku . Before clicking on deploy to heroku just click on fork and star just below
 
-[![Get string session](https://generatestringsession.sarathsurvivor.repl.run/)
+[![Get string session](https://repl.it/badge/github/Sur-vivor/CatUserbot)](https://generatestringsession.sarathsurvivor.repl.run/)
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)https://github.com/Sur-vivor/CatUserbot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Zyruz-cat/ramu-cat)
 <p align="center">
-  <a href="https://github.com/Sur-vivor/CatUserbot/fork">
-    <img src="https://img.shields.io/github/forks/Sur-vivor/CatUserbot?label=Fork&style=social">
+  <a href="https://github.com/https://github.com/Zyruz-cat/ramu-cat.git/fork">
+    <img src="https://img.shields.io/github/forks/https:/Zyruz-cat/ramu-cat?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/Sur-vivor/CatUserbot">
-    <img src="https://img.shields.io/github/stars/Sur-vivor/CatUserbot?style=social">
+  <a href="https://github.com/Zyruz-cat/ramu-cat">
+    <img src="https://img.shields.io/github/stars/Zyruz-cat/ramu-cat?style=social">
   </a>
 </p>
 
 
-[![catuserbot logo](https://telegra.ph/file/7e1e89621fabbf02596f8.jpg)]
+[![catuserbot logo](https://telegra.ph/file/7e1e89621fabbf02596f8.jpg)](https://heroku.com/deploy?template=https://github.com/Zyruz-cat/ramu-cat)
 
 
 ### Join [here](https://t.me/catuserbot17) for updates and tuts and [here](https://t.me/catuserbot_support) for discussion and bugs
